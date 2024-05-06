@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1700937296 source:c:\progamas c\arvorebinariarudy\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArvoreRudy.h"
+
+1700937242 source:c:\progamas c\arvorebinariarudy\arvorerudy.c
+	<stdlib.h>
+	<stdio.h>
+	"ArvoreRudy.h"
+
+1700937238 c:\progamas c\arvorebinariarudy\arvorerudy.h
+	<stdio.h>
+	<stdlib.h>
+

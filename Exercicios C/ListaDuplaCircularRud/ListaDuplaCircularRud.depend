@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1697915907 source:c:\progamas c\listaduplacircularrud\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaDuplaCircular.h"
+	<string.h>
+
+1697916052 source:c:\progamas c\listaduplacircularrud\listaduplacircular.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaDuplaCircular.h"
+
+1697915424 c:\progamas c\listaduplacircularrud\listaduplacircular.h
+	<stdlib.h>
+	<stdio.h>
+

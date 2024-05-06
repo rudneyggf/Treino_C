@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1693661187 source:c:\progamas c\exerciciosmatematicadiscreta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

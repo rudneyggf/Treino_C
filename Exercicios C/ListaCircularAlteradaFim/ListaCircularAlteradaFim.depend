@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1698062081 source:c:\progamas c\listacircularalteradafim\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaCircularAlteradaFim.h"
+
+1698009210 source:c:\progamas c\listacircularalteradafim\listacircularalteradafim.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaCircularAlteradaFim.h"
+
+1698003955 c:\progamas c\listacircularalteradafim\listacircularalteradafim.h
+	<stdio.h>
+	<stdlib.h>
+
